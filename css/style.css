@@ -280,7 +280,7 @@ body.lock {
   display: block;
   width: 100%;
   height: 100%;
-  background: url("/img/accordion-button.svg") center center/40px 40px no-repeat;
+  background: url("../img/accordion-button.svg") center center/40px 40px no-repeat;
   -webkit-transition: -webkit-transform 0.3s ease-in-out 0s;
   transition: -webkit-transform 0.3s ease-in-out 0s;
   -o-transition: transform 0.3s ease-in-out 0s;
@@ -617,7 +617,7 @@ body.lock {
 }
 
 .no-webp .showcase{
-  background: url("/img/showcase-bg.jpg") center top/cover no-repeat rgb(58, 54, 54); }
+  background: url("../img/showcase-bg.jpg") center top/cover no-repeat rgb(58, 54, 54); }
 
 .showcase {
   position: relative;
@@ -776,7 +776,7 @@ body.lock {
 }
 
 .no-webp .consultation{
-  background: url("/img/consultation-bg.jpg") center center/cover no-repeat rgb(58, 54, 54); }
+  background: url("../img/consultation-bg.jpg") center center/cover no-repeat rgb(58, 54, 54); }
 
 .consultation {
   position: relative;
@@ -872,7 +872,7 @@ body.lock {
 
 .info-markets {
   max-width: 1059px;
-  background: url("/img/world.svg") top 20px left -10px/672px 343px no-repeat;
+  background: url("../img/world.svg") top 20px left -10px/672px 343px no-repeat;
 }
 
 .info-markets__wrapper {
@@ -1165,8 +1165,8 @@ body.lock {
   position: relative;
   padding-top: 59px;
   padding-bottom: 64px;
-  background: url("/img/radars-bg.svg") top left/764px, -o-linear-gradient(311.72deg, #1973FA -12.19%, #75ACFD 92.47%);
-  background: url("/img/radars-bg.svg") top left/764px, linear-gradient(138.28deg, #1973FA -12.19%, #75ACFD 92.47%);
+  background: url("../img/radars-bg.svg") top left/764px, -o-linear-gradient(311.72deg, #1973FA -12.19%, #75ACFD 92.47%);
+  background: url("../img/radars-bg.svg") top left/764px, linear-gradient(138.28deg, #1973FA -12.19%, #75ACFD 92.47%);
 }
 
 .radars__body {
@@ -1228,7 +1228,7 @@ body.lock {
   height: 100%;
   top: 0;
   right: -107px;
-  background: url("/img/radars-bg-2.svg") top 34px right/368px 231px no-repeat;
+  background: url("../img/radars-bg-2.svg") top 34px right/368px 231px no-repeat;
   z-index: -1;
 }
 
@@ -2385,7 +2385,7 @@ body.lock {
   }
 
   .info-markets {
-    background: url("/img/world.svg") top 3px left 0px/794px 420px no-repeat;
+    background: url("../img/world.svg") top 3px left 0px/794px 420px no-repeat;
     padding-bottom: 45px;
   }
 
@@ -3251,7 +3251,7 @@ body.lock {
   }
 
   .info-markets {
-    background: url("/img/world.svg") top 3px left 1px/316px 255px no-repeat;
+    background: url("../img/world.svg") top 3px left 1px/316px 255px no-repeat;
     padding-bottom: 45px;
   }
 
@@ -3477,7 +3477,7 @@ body.lock {
   }
 
   .radars__right::before {
-    background: url("/img/radars-bg-2.svg") top 20px right/217px 136px no-repeat;
+    background: url("../img/radars-bg-2.svg") top 20px right/217px 136px no-repeat;
   }
 
   .radars__list {
@@ -4063,9 +4063,9 @@ body.lock {
   }
 }
 
-.webp .showcase{ background: url(/img/showcase-bg.webp) center top/cover no-repeat rgb(58, 54, 54); }
+.webp .showcase{ background: url(../img/showcase-bg.webp) center top/cover no-repeat rgb(58, 54, 54); }
 
-.webp .consultation{ background: url(/img/consultation-bg.webp) center center/cover no-repeat rgb(58, 54, 54); }
+.webp .consultation{ background: url(../img/consultation-bg.webp) center center/cover no-repeat rgb(58, 54, 54); }
 
 .webp .become-partner{ background: url(../img/become-partner-bg.webp) center/cover no-repeat; }
 
