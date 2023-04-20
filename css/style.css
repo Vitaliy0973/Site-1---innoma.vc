@@ -617,7 +617,7 @@ body.lock {
 }
 
 .no-webp .showcase{
-  background: url("/img/showcase-bg.jpg") center top/cover no-repeat rgb(58, 54, 54); }
+  background: url("../img/showcase-bg.jpg") center top/cover no-repeat rgb(58, 54, 54); }
 
 .showcase {
   position: relative;
